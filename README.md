@@ -1,7 +1,7 @@
 # Assignment 3: Task Manager with a Reducer
 
-**Name:** Ad Soyad
-**Student number:** 0000000000
+**Name:** Şevval Boyraz
+**Student number:** 2200004208
 **Course:** SEN0415 Advanced Web Programming, Fall 2026
 
 A Task Manager built with React, TypeScript and `useReducer`. The state is

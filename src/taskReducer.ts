@@ -1,4 +1,4 @@
-// Ad Soyad, Öğrenci No: 0000000000
+// Şevval Boyraz, Student number: 2200004208
 // SEN0415 Advanced Web Programming, Assignment 3
 import type { Filter } from './filter'
 
