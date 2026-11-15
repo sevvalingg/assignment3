@@ -9,7 +9,7 @@ function stateWith(tasks: Task[]): State {
   return { ...initialState, tasks }
 }
 
-/** Freeze the state and everything inside it, so any mutation throws. */
+/** Freeze the state and everything inside it, so every mutation throws. */
 function deepFreeze(state: State): State {
   state.tasks.forEach((t) => Object.freeze(t))
   state.past.forEach((list) => {
