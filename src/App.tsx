@@ -98,6 +98,13 @@ export default function App() {
         >
           Clear done
         </button>
+        <button
+          type="button"
+          onClick={() => dispatch({ type: 'undo' })}
+          disabled={state.past.length === 0}
+        >
+          Undo
+        </button>
       </div>
     </main>
   )
