@@ -56,7 +56,7 @@ They cover every action, `advance` three times back to `todo`, a deep-frozen sta
 that must not change, undo, `filterTasks`, `countByFilter`, and edge cases: an unknown
 id, an empty list, `clearDone` with nothing done and counts after a delete.
 
-Output of `npx vitest run --reporter=verbose` (`npm test` runs the same tests):
+Output of `npm test`:
 
 ```
  RUN  v5.1.0 assignment3
