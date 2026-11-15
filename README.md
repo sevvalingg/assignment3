@@ -120,7 +120,7 @@ more code than a simple `useState` setter.
 
 ## Bonus 4: Git repository
 
-Repository: https://github.com/KULLANICI_ADI/assignment3
+Repository: https://github.com/sevvalingg/assignment3
 
 The history has one commit per step (starter, state shape, filter functions, filter bar,
 undo, tests, README and screenshots). `node_modules` and `dist` are in `.gitignore`.
